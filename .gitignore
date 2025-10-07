@@ -28,5 +28,6 @@
 *.app
 
 # McPAT custom
-mcpat
+# mcpat
 obj_opt/
+McPAT_out_updated/
